@@ -20,7 +20,7 @@ Il faut :
 ## Comment jouer ?
 
 Compiler si le fichier project n'existe avec la commande : **make**
-Pour demarrer : ./project
+- Pour demarrer : ./project
 
 
 
