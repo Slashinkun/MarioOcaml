@@ -19,7 +19,7 @@ Il faut :
 
 ## Comment jouer ?
 
-Compiler si le fichier project n'existe avec la commande : **make**
+Compiler si le fichier project n'existe pas avec la commande : **make**
 - Pour demarrer : ./project
 
 
