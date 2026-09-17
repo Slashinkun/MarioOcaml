@@ -1,27 +1,38 @@
 # MarioOcaml
 
 ## Description
-Projet de L2 Informatique (en binome)
+Projet de L2 Informatique en binome à **l'UPEC (Université Paris-Est Créteil)**.
 
-Jeu mario fait avec Ocaml. 
-Il comporte un systeme de collision, vie et un ecran de fin de jeu.
+**MarioOcaml** est un jeu inspiré de Mario, développé en **OCaml**.
+
+Le jeu comporte notamment :
+- Un systeme de collision
+- Un système de vies 
+- Un ecran de fin de jeu
 
 ### Commandes
-- Saut - Z
-- Quitter - Echap
-- Avancer/Reculer - Q/D
+- Saut - `Z`
+- Quitter - `Echap`
+- Avancer/Reculer - `Q`/`D`
 
 ## Installation
-Il faut :
+Pour jouer au jeu , il faut disposer de :
 
-- Un ordinateur avec Linux (DualBoot,WSL,Autres)
-- Ocaml (version 5.0.0)
+- Un ordinateur fonctionnant sous Linux (Dual Boot, WSL ou Autres)
+- **OCaml 5.0.0**
 
 ## Comment jouer ?
 
-Compiler si le fichier project n'existe pas avec la commande : **make**
-- Pour demarrer : ./project
+### Compilation
+Depuis un terminal, placez-vous dans le dossier du projet et lancer :
+ `make` 
 
+Cette commande compile le projet et génère l'exécutable `project`.
+
+### Lancer le jeu
+
+Une fois le projet compilé, lancez :
+`./project`
 
 
 
